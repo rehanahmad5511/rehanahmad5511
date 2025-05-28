@@ -9,7 +9,7 @@
 - 🔭 I’m working on a full-stack project using the **MERN** stack
 - 👯 I’m open to collaborating on open-source or freelance projects
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or web hosting (cPanel)**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **ahmadrehan5511@gmail.com**
 - ⚡ Fun fact: I love building things that solve real-world problems
 
 ---
