@@ -8,7 +8,7 @@
 - 🌱 I’m currently improving my skills in **Next.js, Tailwind CSS, and TypeScript**
 - 🔭 I’m working on a full-stack project using the **MERN** stack
 - 👯 I’m open to collaborating on open-source or freelance projects
-- 💬 Ask me about **React, Node.js, Express, MongoDB, or web hosting (cPanel)**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Next , Typrscript,Tailwind**
 - 📫 How to reach me: **ahmadrehan5511@gmail.com**
 - 📫 My Linkedin Profile: **https://www.linkedin.com/in/rehan-ahmad-821960348**
 - ⚡ Fun fact: I love building things that solve real-world problems
