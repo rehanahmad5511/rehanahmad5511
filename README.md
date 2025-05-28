@@ -10,6 +10,7 @@
 - 👯 I’m open to collaborating on open-source or freelance projects
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or web hosting (cPanel)**
 - 📫 How to reach me: **ahmadrehan5511@gmail.com**
+- 📫 My Linkedin Profile: **https://www.linkedin.com/in/rehan-ahmad-821960348**
 - ⚡ Fun fact: I love building things that solve real-world problems
 
 ---
